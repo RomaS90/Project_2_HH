@@ -59,4 +59,4 @@
 ## Установка и запуск  
 1. Клонируйте репозиторий:  
    ```bash  
-   git clone [жмяк,жмяк](https://github.com/RomaS90/Project_2_HH)
+   git clone https://github.com/RomaS90/Project_2_HH
